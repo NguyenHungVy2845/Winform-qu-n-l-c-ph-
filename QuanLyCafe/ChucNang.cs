@@ -16,19 +16,16 @@ namespace QuanLyCafe
         {
             InitializeComponent();
 
-            // Gán sự kiện Click cho các nút
             this.btnAdmin.Click += new System.EventHandler(this.btnAdmin_Click);
             this.btnBanHang.Click += new System.EventHandler(this.btnBanHang_Click);
             this.btnThongKe.Click += new System.EventHandler(this.btnThongKe_Click);
             this.btnNhanVien.Click += new System.EventHandler(this.btnNhanVien_Click);
             this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
 
-            // --- BỔ SUNG MỚI ---
             // Code sẽ báo lỗi dòng này nếu bạn chưa thêm nút tên 'btnKhuyenMai' ở Bước 1
             this.btnKhuyenMai.Click += new System.EventHandler(this.btnKhuyenMai_Click);
         }
 
-        // Sự kiện Form Load: Phân quyền người dùng
         // Sự kiện Form Load: Phân quyền người dùng
         private void ChucNang_Load(object sender, EventArgs e)
         {

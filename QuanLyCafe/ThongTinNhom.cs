@@ -16,6 +16,7 @@ namespace QuanLyCafe
             // Danh sách thành viên
             string[] members = new string[]
             {
+                "THÔNG TIN QUÁN",
                 "Quán được thành lập bởi",
                 "1. Nguyễn Đức Trọng",
                 "2. Đặng Yên Chí Tài",

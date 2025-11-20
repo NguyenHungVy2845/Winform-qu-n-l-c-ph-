@@ -67,7 +67,6 @@ C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.CoreCompi
 C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.csproj.Up2Date
 C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe
 C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.pdb
-C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe.config
 C:\Users\Tai\Desktop\QuanLyCafe002\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
 C:\Users\Tai\Desktop\QuanLyCafe002\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 C:\Users\Tai\Desktop\QuanLyCafe002\QuanLyCafe\QuanLyCafe\QuanLyCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
@@ -154,3 +153,4 @@ C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fShowBaoCao.reso
 C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fShowLuong.resources
 C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fThongKe.resources
 C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.fTopBanChay.resources
+C:\Users\Tai\Desktop\QuanLyCafe\QuanLyCafe\obj\Debug\QuanLyCafe.exe.config

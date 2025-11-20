@@ -13,9 +13,8 @@ namespace QuanLyCafe
     public partial class fBaoCao : Form
     {
         // Cấu hình lương (Lưu ý: Nên chỉnh cho khớp với bên form fNhanVien)
-        // Ví dụ: Nếu bên fNhanVien là 200.000 thì sửa ở đây thành 200.000
-        const decimal LUONG_MOT_NGAY = 500000;
-        const decimal TRU_LUONG_NGHI = 500000;
+        const decimal LUONG_MOT_NGAY = 200000;
+        const decimal TRU_LUONG_NGHI = 200000;
 
         public fBaoCao()
         {

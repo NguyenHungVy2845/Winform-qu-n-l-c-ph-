@@ -54,6 +54,11 @@
             // nmPrice
             // 
             this.nmPrice.Location = new System.Drawing.Point(342, 60);
+            this.nmPrice.Maximum = new decimal(new int[] {
+            100000,
+            0,
+            0,
+            0});
             this.nmPrice.Name = "nmPrice";
             this.nmPrice.Size = new System.Drawing.Size(120, 26);
             this.nmPrice.TabIndex = 2;

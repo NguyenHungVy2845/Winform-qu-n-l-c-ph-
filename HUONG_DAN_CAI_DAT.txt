@@ -1,0 +1,7 @@
+HƯỚNG DẪN CÀI ĐẶT:
+1. Mở SQL Server Management Studio (SSMS).
+2. Mở file "Database_Full.sql".
+3. Nhấn Execute (F5) để tạo CSDL và dữ liệu mẫu.
+4. Mở file "QuanLyBanLaptop.sln" bằng Visual Studio.
+5. Nhấn F5 để chạy chương trình.
+6. Tài khoản Admin: admin / admin123

@@ -64,6 +64,11 @@
             // nmGiaNhap
             // 
             this.nmGiaNhap.Location = new System.Drawing.Point(204, 115);
+            this.nmGiaNhap.Maximum = new decimal(new int[] {
+            100000,
+            0,
+            0,
+            0});
             this.nmGiaNhap.Name = "nmGiaNhap";
             this.nmGiaNhap.Size = new System.Drawing.Size(120, 26);
             this.nmGiaNhap.TabIndex = 2;
